@@ -42,21 +42,28 @@
 ## RNA Polymerase + Promoter (7,8)
 
 - Holoenzyme
-
-- RNA Polymerase binds to DNA at a Promoter
-
-- RNA Polymerase
+    - a biochemically active compound formed by the combination of an enzyme with a coenzyme.
+    - [What is a Holoenzyme](http://study.com/academy/lesson/holoenzyme-definition-lesson-quiz.html)
 
 - DNA Promoter
+    - In genetics, a promoter is a region of DNA that initiates transcription of a particular gene. Promoters are located near the transcription start sites of genes, on the same strand and upstream on the DNA.
+
+- RNA Polymerase
+    - Enzyme responsible for transcription
 
 ## Transcription in Eukaryotes (10)
 
 - TFIIB recognition element
+    - A TFIIB recognition element (BRE) functions to determine the orientation of the TFIIB-TBP-TATA complex that projects the zinc ribbon of TFIIB toward the TSS. [[source](https://en.wikiversity.org/wiki/Gene_transcriptions/Downstream_TFIIB_recognition_elements)]
 
 - TATA box
+    - A DNA sequence (cis-regulatory element) found in the promoter region of genes in archaea and eukaryotes; approximately 24% of human genes contain a TATA box within the core promoter. [[source](https://en.wikipedia.org/wiki/TATA_box)]
+    - Considered to be the core promoter sequence, it is the binding site of either general transcription factors or histones (the binding of a transcription factor blocks the binding of a histone and vice versa) and is involved in the process of transcription by RNA polymerase. [[source](https://en.wikipedia.org/wiki/TATA_box)]
 
 - Initiator element
+    - The initiator element (Inr), sometimes also called initiator motif, is a core promoter that is similar in function to the Pribnow box (for prokaryotes) or the TATA box (for eukaryotes). It has the consensus sequence YYANWYY. Similarly to the TATA box, the Inr element facilitates the binding of transcription Factor II D (TAF). TATA box and Inr are usually mutually exclusive. [[source](https://en.wikipedia.org/wiki/Initiator_element)]
 
 - Downstream core promoter element
+    - A core promoter element, plays an important role in the initiation of gene transcription by RNA polymerase II. [[source](https://en.wikipedia.org/wiki/Downstream_promoter_element)]
 
 - Regulatory promoter vs Core promoter
