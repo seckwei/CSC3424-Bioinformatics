@@ -67,3 +67,47 @@
     - A core promoter element, plays an important role in the initiation of gene transcription by RNA polymerase II. [[source](https://en.wikipedia.org/wiki/Downstream_promoter_element)]
 
 - Regulatory promoter vs Core promoter
+    - The core promoter refers to the region of genome immediately before the start of the actual gene.
+    - A regulatory promoter is a genome region that can affect the expression of a gene, but that it is further upstream, at a distance that can vary a lot.
+
+## Transcript Processing (12)
+
+- Primary transcript
+    - The single-stranded ribonucleic acid (RNA) product synthesized by transcription of DNA, and processed to yield various mature RNA products such as mRNAs, tRNAs, and rRNAs.
+    - The primary transcripts designated to be mRNAs are modified in preparation for translation.
+
+
+# Genome Sequencing and Assembly (14/2)
+
+## Sequence Assembly (38)
+
+- Contig
+    - Refers to overlapping sequence data (reads); in top-down sequencing projects, contig refers to the overlapping clones that form a physical map of the genome that is used to guide sequencing and assembly.
+    - Assembled to give complete sequence.
+
+## Challenges in Sequence Assembly (53)
+
+- Sequencing Errors
+- Repeated regions
+- Shotgun fragmentation of DNA is often non-random
+
+
+
+# Sequence Annotation and Storage (20/2)
+
+## Gene Finding (4)
+
+- Open Reading Frame
+    - Part of a reading frame that has the potential to be translated. An ORF is a continuous stretch of codons that do not contain a stop codon (usually UAA, UAG or UGA).
+
+## Gene Prediction vs. Gene Annotation
+
+- Gene Predictor
+    - Find single most likely coding sequence of a gene
+- Gene Annotation
+    - UTR
+        - Untranslated Region
+    - Alternative splice isoform
+        - 
+    - Evidence trails
+        - 
